@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="[Project]">
+  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="SVG Video">
   <br />
-  [Project]
+  SVG Video
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>“Single-line elevator pitch for your amazing snap”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for SVG Video</b>, <i>“An advanced and extremely compressed video format based on the SVG standard.”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -42,12 +42,12 @@ distributions.</p>
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
-upstream so [Project] can authoritatively publish future releases.
+upstream so the SVG Video consortium project can authoritatively publish future releases for the snapcraft platform.
 
   - [x] Click the green "Use this template" button above to create a new repository based on this template
-  - [ ] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
-  - [ ] Update the description of the repository
-  - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
+  - [x] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
+  - [x] Update the description of the repository
+  - [ ] Update logos and references to `SVG Video` and `[my-snap-name]`
   - [ ] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
   - [ ] Add a screenshot to this `README.md`
